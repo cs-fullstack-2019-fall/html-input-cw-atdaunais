@@ -1,3 +1,4 @@
+Score : 5
 # html-input-cw
 
 ### Problem 1:
